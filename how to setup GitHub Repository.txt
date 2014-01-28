@@ -1,0 +1,7 @@
+1. Go to https://github.com
+2. Apply for GitHub account
+3. Go to https://help.github.com/articles/set-up-git Download and Install GitHub
+4. Open program and Login
+5. Crate your new repository and fill project name ,description and other
+6. Open containing folder and create newfile
+7.Select file and Publish it !!
